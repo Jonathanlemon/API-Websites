@@ -1,0 +1,20 @@
+body *{
+	margin:5px;
+	padding:0px;
+	display:inline;
+}
+#btn{
+	background-color:black;
+	color:white;
+	width:170px;
+	height:40px;
+	border-radius:45px;
+}
+h1{
+	font-family:"Times New Roman";
+}
+#area{
+	display:block;
+	height:500px;
+	width:1200px;
+}
